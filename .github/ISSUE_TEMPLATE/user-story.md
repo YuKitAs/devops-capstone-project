@@ -1,9 +1,6 @@
 ---
 name: user story issue template
 about: User story template
-title: ''
-labels: ''
-assignees: ''
 
 ---
 
